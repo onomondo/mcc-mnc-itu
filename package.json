@@ -1,6 +1,6 @@
 {
   "name": "mcc-mnc-itu",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Lookup MCC and MNC information. Uses the official data from International Telecommunications Union (ITU) which guarantees it is the most current one.",
   "main": "index.js",
   "scripts": {
