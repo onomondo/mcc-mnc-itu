@@ -7,7 +7,7 @@ test('Basic functionality', t => {
 
   t.equals(mccMnc.allAreas().length, 214)
   t.equals(mccMnc.allMccs().length, 218)
-  t.equals(mccMnc.allMncs().length, 1971)
+  t.equals(mccMnc.allMncs().length, 1972)
   t.equals(mccMnc.area('denmark').length, 24)
   t.equals(mccMnc.area('dEnMaRk').length, 24)
   t.equals(mccMnc.mcc('238').area, 'denmark')
