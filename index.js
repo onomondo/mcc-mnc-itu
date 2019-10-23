@@ -27,9 +27,7 @@ function getMccMnc (html) {
     }
 
     const name = $('td:nth-child(1)', $row).text().trim()
-    const [mccStr, mncStr] = $('td:nth-child(2)', $row).text().trim().split(' ')
-    const mcc = Number(mccStr)
-    const mnc = Number(mncStr)
+    const [mcc, mnc] = $('td:nth-child(2)', $row).text().trim().split(' ')
 
     areas[currentArea].push({ name, mcc, mnc })
   })
