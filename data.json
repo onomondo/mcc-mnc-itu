@@ -2173,11 +2173,6 @@
         "mnc": "01"
       },
       {
-        "name": "Digicel (Fiji) Ltd",
-        "mcc": "542",
-        "mnc": "02"
-      },
-      {
         "name": "Telecom Fiji Ltd (CDMA)",
         "mcc": "542",
         "mnc": "03"
@@ -3379,11 +3374,6 @@
         "name": "Iceland Telecom Ltd.",
         "mcc": "274",
         "mnc": "01"
-      },
-      {
-        "name": "Og fjarskipti hf (Vodafone Iceland)",
-        "mcc": "274",
-        "mnc": "02"
       },
       {
         "name": "Og fjarskipti hf (Vodafone Iceland)",
@@ -5183,11 +5173,6 @@
     "liechtenstein": [
       {
         "name": "Swisscom Schweiz AG",
-        "mcc": "228",
-        "mnc": "01"
-      },
-      {
-        "name": "Swisscom Schweiz AG",
         "mcc": "295",
         "mnc": "01"
       },
@@ -5259,11 +5244,6 @@
         "name": "Join Experience S.A.",
         "mcc": "270",
         "mnc": "10"
-      },
-      {
-        "name": "Tango S.A.",
-        "mcc": "270",
-        "mnc": "77"
       },
       {
         "name": "Interactive Digital Media GmbH",
@@ -5593,21 +5573,6 @@
       }
     ],
     "monaco": [
-      {
-        "name": "Orange/Monaco Télécom",
-        "mcc": "208",
-        "mnc": "01"
-      },
-      {
-        "name": "Société Française du Radiotéléphone",
-        "mcc": "208",
-        "mnc": "10"
-      },
-      {
-        "name": "Bouygues Telecom",
-        "mcc": "208",
-        "mnc": "20"
-      },
       {
         "name": "Monaco Telecom",
         "mcc": "212",
